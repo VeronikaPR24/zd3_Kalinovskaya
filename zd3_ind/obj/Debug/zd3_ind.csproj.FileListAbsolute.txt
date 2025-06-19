@@ -1,0 +1,10 @@
+C:\Users\305-6\Desktop\калиновская пр-24\уп 3\zd3_ind\bin\Debug\zd3_ind.exe.config
+C:\Users\305-6\Desktop\калиновская пр-24\уп 3\zd3_ind\bin\Debug\zd3_ind.exe
+C:\Users\305-6\Desktop\калиновская пр-24\уп 3\zd3_ind\bin\Debug\zd3_ind.pdb
+C:\Users\305-6\Desktop\калиновская пр-24\уп 3\zd3_ind\obj\Debug\zd3_ind.csproj.AssemblyReference.cache
+C:\Users\305-6\Desktop\калиновская пр-24\уп 3\zd3_ind\obj\Debug\zd3_ind.Form1.resources
+C:\Users\305-6\Desktop\калиновская пр-24\уп 3\zd3_ind\obj\Debug\zd3_ind.Properties.Resources.resources
+C:\Users\305-6\Desktop\калиновская пр-24\уп 3\zd3_ind\obj\Debug\zd3_ind.csproj.GenerateResource.cache
+C:\Users\305-6\Desktop\калиновская пр-24\уп 3\zd3_ind\obj\Debug\zd3_ind.csproj.CoreCompileInputs.cache
+C:\Users\305-6\Desktop\калиновская пр-24\уп 3\zd3_ind\obj\Debug\zd3_ind.exe
+C:\Users\305-6\Desktop\калиновская пр-24\уп 3\zd3_ind\obj\Debug\zd3_ind.pdb
